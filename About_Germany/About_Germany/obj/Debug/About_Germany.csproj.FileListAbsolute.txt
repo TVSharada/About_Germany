@@ -1,0 +1,30 @@
+C:\Users\shara\Desktop\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\bin\Debug\About_Germany.exe.config
+C:\Users\shara\Desktop\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\bin\Debug\About_Germany.exe
+C:\Users\shara\Desktop\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\bin\Debug\About_Germany.pdb
+C:\Users\shara\Desktop\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\About_Germany.csprojAssemblyReference.cache
+C:\Users\shara\Desktop\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\MainWindow.g.cs
+C:\Users\shara\Desktop\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\App.g.cs
+C:\Users\shara\Desktop\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\About_Germany_MarkupCompile.cache
+C:\Users\shara\Desktop\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\About_Germany_MarkupCompile.lref
+C:\Users\shara\Desktop\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\MainWindow.baml
+C:\Users\shara\Desktop\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\About_Germany.g.resources
+C:\Users\shara\Desktop\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\About_Germany.Properties.Resources.resources
+C:\Users\shara\Desktop\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\About_Germany.csproj.GenerateResource.cache
+C:\Users\shara\Desktop\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\About_Germany.csproj.CoreCompileInputs.cache
+C:\Users\shara\Desktop\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\About_Germany.exe
+C:\Users\shara\Desktop\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\About_Germany.pdb
+C:\Users\shara\Desktop\Applied Computer Science\ACS\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\bin\Debug\About_Germany.exe.config
+C:\Users\shara\Desktop\Applied Computer Science\ACS\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\bin\Debug\About_Germany.exe
+C:\Users\shara\Desktop\Applied Computer Science\ACS\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\bin\Debug\About_Germany.pdb
+C:\Users\shara\Desktop\Applied Computer Science\ACS\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\About_Germany.csprojAssemblyReference.cache
+C:\Users\shara\Desktop\Applied Computer Science\ACS\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\MainWindow.g.cs
+C:\Users\shara\Desktop\Applied Computer Science\ACS\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\App.g.cs
+C:\Users\shara\Desktop\Applied Computer Science\ACS\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\About_Germany_MarkupCompile.cache
+C:\Users\shara\Desktop\Applied Computer Science\ACS\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\About_Germany_MarkupCompile.lref
+C:\Users\shara\Desktop\Applied Computer Science\ACS\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\MainWindow.baml
+C:\Users\shara\Desktop\Applied Computer Science\ACS\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\About_Germany.g.resources
+C:\Users\shara\Desktop\Applied Computer Science\ACS\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\About_Germany.Properties.Resources.resources
+C:\Users\shara\Desktop\Applied Computer Science\ACS\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\About_Germany.csproj.GenerateResource.cache
+C:\Users\shara\Desktop\Applied Computer Science\ACS\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\About_Germany.csproj.CoreCompileInputs.cache
+C:\Users\shara\Desktop\Applied Computer Science\ACS\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\About_Germany.exe
+C:\Users\shara\Desktop\Applied Computer Science\ACS\German_learning_app_project\New_ACS\My_workspace\About_Germany\About_Germany\obj\Debug\About_Germany.pdb
